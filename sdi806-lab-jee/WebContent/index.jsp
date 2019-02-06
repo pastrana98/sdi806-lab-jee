@@ -29,6 +29,8 @@
 			<li><a href="incluirEnCarrito">Carrito</a></li>
 			<li><a href="login.jsp">Login</a></li>
 			<li><a href="admin.jsp">Administrar productos</a></li>
+			<li><a href="productos">Tienda de productos</a></li>
+			<li><a href="comentarios">Comentarios</a></li>
 		</ul>
 		<div class="nav navbar-right">
 			<div class="center-block">
